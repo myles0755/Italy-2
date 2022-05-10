@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la7.png",LA7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/tv2000.png",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/la7d.png",LA7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/qvc.png",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rtl1025tv.png",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/gm24.png",GM24
+https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/super.png",Super!
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:-1 group-title="Sky" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/skytg24.png",Sky TG24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/byoblu.png",ByoBlu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/almatv.png",ALMA TV
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/vh1.png",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/radioitaliatv.png",RadioItaliaTV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8
+#EXTINF:-1 group-title="Altro" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/padrepiotv.png",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/radiokisskisstv.png",RADIO KISS KISS TV
+https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rtl1025tv.png",RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/radiofrecciatv.png",RADIOFRECCIA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/giornaleradiotv.png",Giornale Radio TV
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rdssocialtv.png",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/radiozetatv.png",RADIO ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rtvsanmarino.png",RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
